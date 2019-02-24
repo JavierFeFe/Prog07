@@ -10,7 +10,9 @@ En concreto las lista de requisitos mínimos de la aplicación es:
 * En el menú Editar se tendrá al menos las opciones Cortar, Copiar, Pegar.
 
 ![image](https://user-images.githubusercontent.com/44543081/53302236-b36e2e80-385c-11e9-8648-e9ae94ef0d7c.png)  
-*Creamos el diseño desde NetBeans*
+*Creo el diseño desde NetBeans*
+
+![image](https://user-images.githubusercontent.com/44543081/53302258-f6300680-385c-11e9-847c-580391698e83.png)
 
 ```Java
     private File archivo; //Archivo donde se almacenarán los datos
