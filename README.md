@@ -192,15 +192,6 @@ private void menuCopiarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FI
 ```
 *Métodos Privados que son llamados desde los distincos ActionPerformed*
 
-```Java
-
-```
-
-```Java
-
-```
-
-```Java
-
-```
+![image](https://user-images.githubusercontent.com/44543081/53302339-879f7880-385d-11e9-8849-5b1fa1e89811.png)  
+*Resultado final*
 
