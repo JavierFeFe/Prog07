@@ -9,6 +9,9 @@ En concreto las lista de requisitos mínimos de la aplicación es:
 * Se tendrán al menos las opciones en el menú de Fichero: Nuevo, Abrir, Guardar, Guardar como y Salir.
 * En el menú Editar se tendrá al menos las opciones Cortar, Copiar, Pegar.
 
+![image](https://user-images.githubusercontent.com/44543081/53302236-b36e2e80-385c-11e9-8648-e9ae94ef0d7c.png)  
+*Creamos el diseño desde NetBeans*
+
 ```Java
     private File archivo; //Archivo donde se almacenarán los datos
     private boolean sinArchivo; //Determina si se estableció una ruta de archivo
